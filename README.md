@@ -5,7 +5,7 @@ Ensemble modelling of COVID-19 pandemic
 
 *****
 
-Ensemble modeling of international and periodically updating COVID-19 pandemic studies 
+Ensemble modeling of international periodically updating COVID-19 pandemic studies 
 
 *****
 
@@ -25,8 +25,8 @@ Ensemble modeling of international and periodically updating COVID-19 pandemic s
 
 :arrow_down: 
 
-[`CovidLongitudinal`](https://github.com/pourmalek/CovidLongitudinal) Longitudinal assessment of COVID-19 epidemic models using performance graphs and measures
+[`CovidLongitudinal`](https://github.com/pourmalek/CovidLongitudinal) Longitudinal assessment of international periodically updating COVID-19 pandemic studies 
 
 :arrow_down: 
 
-[`CovidVisualizedEnsemble`](https://github.com/pourmalek/CovidVisualizedEnsemble) Ensemble modelling of COVID-19 pandemic
+[`CovidVisualizedEnsemble`](https://github.com/pourmalek/CovidVisualizedEnsemble) Ensemble modeling of international periodically updating COVID-19 pandemic studies 
