@@ -10,7 +10,7 @@ Ensemble modeling of international periodically updating COVID-19 pandemic studi
 *****
 *****
 
-CovidVisualized repositories: 
+### CovidVisualized repositories: ###
 
 [`covir2`](https://github.com/pourmalek/covir2) Combine and visualize predictions of international periodically updated COVID-19 pandemic models for countries without subnational level estimates: Iran
 
