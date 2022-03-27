@@ -24,7 +24,7 @@ Ensemble modeling of international periodically updating COVID-19 pandemic studi
 
 :arrow_down: 
 
-[`CovidVisualizedMethodology`](https://github.com/pourmalek/CovidVisualizedMethodology) CovidVisualized Methodology Documents for above 3 repositories
+[`CovidVisualizedMethodology`](https://github.com/pourmalek/CovidVisualizedMethodology) CovidVisualized Methodology Documents for 3 repositories above
 
 :arrow_down: 
 
