@@ -11,6 +11,7 @@ Ensemble modeling of international and periodically updating COVID-19 pandemic s
 
 [`covir2`](https://github.com/pourmalek/covir2) Combine and visualize predictions of international periodically updated COVID-19 pandemic models for countries without subnational level estimates: Iran
 
+:arrow_down:
 
 [`CovidVisualizedCountry`](https://github.com/pourmalek/CovidVisualizedCountry) Combine and visualize predictions of international periodically updated COVID-19 pandemic models for countries with subnational level estimates: Canada
 
