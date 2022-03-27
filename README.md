@@ -13,7 +13,7 @@ Ensemble modeling of international and periodically updating COVID-19 pandemic s
 
 :arrow_down:
 
-[`CovidVisualizedCountry`](https://github.com/pourmalek/CovidVisualizedCountry) Combine and visualize predictions of international periodically updated COVID-19 pandemic models for countries with subnational level estimates: Canada
+[`CovidVisualizedCountry`](https://github.com/pourmalek/CovidVisualizedCountry) Combine & visualize predictions of international periodically updated COVID-19 pandemic models, countries with subnational estimates: Canada
 
 
 
